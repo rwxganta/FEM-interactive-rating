@@ -32,19 +32,15 @@
 @font-face {
     font-family: 'Overpass';
     src:
-        url('../src/assets/fonts/Overpass-Regular.woff')
-        format('woff');
+        url('../src/assets/fonts/Overpass-Regular.woff') format('woff');
     font-weight: 400;
-    /*font-display: optional;*/
 }
 
 @font-face {
     font-family: 'Overpass';
     src:
-        url('../src/assets/fonts/Overpass-Bold.woff')
-        format('woff');
+        url('../src/assets/fonts/Overpass-Bold.woff') format('woff');
     font-weight: 700;
-   /*nt-display: optional;*/
 }
 
 body {
